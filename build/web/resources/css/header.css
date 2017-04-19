@@ -1,0 +1,16 @@
+.tbCarrinho{
+   background:url("resources/baneres/body_index.jpg") ;
+   
+}
+.imgem{
+    float: left;
+}
+#hd1{
+    background: greenyellow;
+    width: 220px;
+    float:  right ;
+}
+.tbCarrinho{
+    
+    border-style:dotted;
+}

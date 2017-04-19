@@ -1,0 +1,10 @@
+.container{
+    text-align: center;
+    padding-left: 60px;
+}
+aside{
+    float: left;
+    width:400px;
+    height:400px;
+        
+}

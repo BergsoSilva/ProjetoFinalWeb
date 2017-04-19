@@ -1,0 +1,69 @@
+body{
+    background: #333;
+    text-align: center;
+    background-image: linear-gradient(90deg,royalblue,burlywood);
+
+}
+
+header{
+     height: 250px;
+     margin-left: 210px;
+     width:950px;
+     margin-bottom: 10px;
+     background:activeborder;
+     border:solid 1px aqua;
+     animation-name: example;
+     animation-duration: 4s;
+   
+}
+nav li{
+     display: table-cell;
+     border:1px solid activeborder;
+     
+}
+
+nav li a{
+    color: #FFF;
+    background: #333;
+    font: 1.3em "Trebuchet MS",Arial,sans-serif ;
+    line-height: 1em ;
+    padding:5px 10px;
+    text-decoration: none;
+    text-align: center ;
+    display: block;
+  
+}
+
+nav{
+    width:950px;
+    margin-left: 210px;
+    text-align: center;
+    background:activeborder;
+    border:solid 1px aqua;
+    margin-bottom: 10px;
+}
+#iframeP{
+    height:600px;
+    width:950px;
+    margin-left:40px;
+}
+
+#spam{
+    margin-left: 145px;
+}
+
+.footer{
+    text-align: left;
+    width:950px;
+   margin-left: 210px;
+    background: yellow;
+    background:activeborder;
+    border:solid 1px aqua;
+}
+
+.footer li{
+   
+}
+.footer .copy{
+    margin-left:  30%;
+}

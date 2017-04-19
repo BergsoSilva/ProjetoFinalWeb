@@ -1,0 +1,16 @@
+
+#carTable{
+    border-style: solid;
+   
+}
+
+#carTable td {
+    border-style:  solid;
+}
+
+#btnCompra{
+    background:green;
+ }
+ #btnCompra :hover{
+    background:yellow;
+ }
